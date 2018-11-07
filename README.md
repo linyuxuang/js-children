@@ -1,5 +1,5 @@
 # js-children
-自己封装children 函数  功能  (获取当前元素的元素子节点)
+自己封装children 函数  功能  (获取当前元素的子元素)
 
 
 
